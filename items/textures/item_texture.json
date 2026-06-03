@@ -4,6 +4,18 @@
   "texture_data": {
     "reator_arc": {
       "textures": "textures/items/reator_arc"
+    },
+    "capacete_mark3": {
+      "textures": "textures/items/capacete_mark3"
+    },
+    "peitoral_mark3": {
+      "textures": "textures/items/peitoral_mark3"
+    },
+    "calcas_mark3": {
+      "textures": "textures/items/calcas_mark3"
+    },
+    "botas_mark3": {
+      "textures": "textures/items/botas_mark3"
     }
   }
 }
