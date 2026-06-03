@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "ironman",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "reator_arc": {
+      "textures": "textures/items/reator_arc"
+    }
+  }
+}
