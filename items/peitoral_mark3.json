@@ -1,0 +1,35 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ironman:peitoral_mark3",
+      "category": "equipment"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "peitoral_mark3"
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.chest"
+      },
+      "minecraft:durability": {
+        "max_durability": 600
+      },
+      "minecraft:armor": {
+        "protection": 8
+      },
+      "minecraft:modifiers": [
+        {
+          "attribute": "minecraft:health",
+          "operator": "add",
+          "value": 10
+        },
+        {
+          "attribute": "minecraft:attack_damage",
+          "operator": "add",
+          "value": 4
+        }
+      ]
+    }
+  }
+}
