@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Homem de Ferro - Recursos",
+    "description": "Texturas e Modelos do Iron Man",
+    "uuid": "439162fa-3e5f-47cf-9e61-a131b7ef293a",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9c11867b-1ba2-4b2a-bc91-2f64a51ff7a5",
+      "version": [1, 0, 0]
+    }
+  ]
+}
