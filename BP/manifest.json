@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Homem de Ferro - Comportamento",
+    "description": "Poderes e Armaduras do Iron Man",
+    "uuid": "7a3b198a-bfdc-4c8d-8ea2-b5e824faee21",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "e45a236c-92f1-41db-ac39-6d817454bb1b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
